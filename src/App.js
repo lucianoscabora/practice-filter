@@ -1,3 +1,4 @@
+import './style/style.css'
 import SearchInput from "./components/SearchInput";
 import React, { useEffect, useState } from "react";
 
